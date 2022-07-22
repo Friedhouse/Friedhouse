@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Friedhouse
 - 👀 I’m interested in fullstack and mobile app development.
-- 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate on anything I can
+- 🌱 Current Graduate of Nucamp Bootcamp for Fullstack and Mobile Development
+- 💞️ I’m looking for full time work in any capacity
 - 📫 How to reach me sfriedman7410@gmail.com
 
 <!---
